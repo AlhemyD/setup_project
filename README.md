@@ -7,6 +7,8 @@
 
 `
 git clone https://github.com/AlhemyD/setup_project.git
+
 cd setup_project
+
 sudo python3 setup.py install
 `

@@ -8,7 +8,7 @@ setup(
    author='Tetsushiro Yuji',
    author_email='tetsushiroyuji@gmail.com',
    url='https://github.com/AlhemyD/setup_project.git',
-   packages=['my_module'],
+   packages=['src'],
    install_requires=['pytest','numpy'],
    extras_require={
         'test': [

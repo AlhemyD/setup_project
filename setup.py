@@ -3,7 +3,7 @@ from setuptools import setup, find_packages
 setup(
    long_description=open('README.md').read(),
    long_description_content_type='text/markdown',
-   name='setup_test_addy',
+   name='setup_test_ady',
    version='1.0',
    description='Тестовая функция сложения add для изучения setup.',
    license='Apache-2.0 license',

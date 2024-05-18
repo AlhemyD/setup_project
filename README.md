@@ -1,6 +1,6 @@
-#Ссылка на github
+# Ссылка на github
 
-```https://github.com/AlhemyD/setup_project.git```
+```https://github.com/AlhemyD/setup_project/tree/pypi_ready_tetsushiro```
 
 # setup_project
 В проекте представлена одна единственная функция add(x,y), которая складывает два числа (x,y) и возвращает их сумму.

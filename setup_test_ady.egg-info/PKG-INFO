@@ -1,5 +1,5 @@
 Metadata-Version: 2.1
-Name: setup_test_addy
+Name: setup_test_ady
 Version: 1.0
 Summary: Тестовая функция сложения add для изучения setup.
 Home-page: https://github.com/AlhemyD/setup_project.git
@@ -15,9 +15,9 @@ Requires-Dist: matplotlib
 Provides-Extra: test
 Requires-Dist: pytest; extra == "test"
 
-#Ссылка на github
+# Ссылка на github
 
-```https://github.com/AlhemyD/setup_project.git```
+```https://github.com/AlhemyD/setup_project/tree/pypi_ready_tetsushiro```
 
 # setup_project
 В проекте представлена одна единственная функция add(x,y), которая складывает два числа (x,y) и возвращает их сумму.

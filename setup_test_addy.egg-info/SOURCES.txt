@@ -1,0 +1,12 @@
+LICENSE
+README.md
+setup.py
+setup_test_addy.egg-info/PKG-INFO
+setup_test_addy.egg-info/SOURCES.txt
+setup_test_addy.egg-info/dependency_links.txt
+setup_test_addy.egg-info/requires.txt
+setup_test_addy.egg-info/top_level.txt
+src/__init__.py
+src/my_module.py
+tests/__init__.py
+tests/test_my_module.py
